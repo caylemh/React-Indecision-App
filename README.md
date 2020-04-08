@@ -16,7 +16,7 @@ React Course Exercise Files and Progress.
 
 5.  Stateless Functional Components:
 
-        - Introduciton to stateless functional components and their uses. Exploring life-cycle methods and working with data (saving & loading data).
+        - Introduction to stateless functional components and their uses. Exploring life-cycle methods and working with data (saving & loading data).
 
 6.  Webpack:
 
