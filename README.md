@@ -32,4 +32,6 @@ React Course Exercise Files and Progress.
 
         - Vid 3:  Using SCSS files to style the 'Header' component and using the BEM naming convention.
 
-        - Vid 4:  
+        - Vid 4:  Making sure all browswer start from the same using a CSS Reset called 'normalize.css'.
+
+        - Vid 5:  Creating styles for elements within the app & creating variables to contain reused styles or values.
