@@ -39,3 +39,5 @@ React Course Exercise Files and Progress.
         - Vid 6:  Setting styles for all the button & using a new BEM naming convention for modifiers.
 
         - Vid 7:  Setting more styles for the app.
+
+        - Vid 8: Setting styles for the 'Option' Item.
