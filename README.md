@@ -37,3 +37,5 @@ React Course Exercise Files and Progress.
         - Vid 5:  Creating styles for elements within the app & creating variables to contain reused styles or values.
 
         - Vid 6:  Setting styles for all the button & using a new BEM naming convention for modifiers.
+
+        - Vid 7:  Setting more styles for the app.
