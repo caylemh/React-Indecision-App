@@ -21,4 +21,6 @@ React Course Exercise Files and Progress.
         - Using the React Modal component in my program.
         
 8.  Styling React
-        - Using '.scss' files and updating the webpack.config.js file with new loaders (sass-loader, style-loader, css-loader,etc).
+        - Vid 2:  Using '.scss' files and updating the webpack.config.js file with new loaders (sass-loader, style-loader, css-loader,etc).
+        - Vid 3:  Using SCSS files to style the 'Header' component and using the BEM naming convention.
+        - Vid 4:  
