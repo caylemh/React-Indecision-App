@@ -19,3 +19,6 @@ React Course Exercise Files and Progress.
 
 7.  Using a Third-Party Component
         - Using the React Modal component in my program.
+        
+8.  Styling React
+        - Using '.scss' files and updating the webpack.config.js file with new loaders (sass-loader, style-loader, css-loader,etc).
