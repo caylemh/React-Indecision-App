@@ -43,3 +43,5 @@ React Course Exercise Files and Progress.
         - Vid 8:  Setting styles for the 'Option' Item.
 
         - Vid 9:  Setting up the Modal styles by accessing the modal presets.
+
+        - Vid 10: Setting up the App to make it Mobile friendly.
