@@ -1,10 +1,9 @@
-React Course Exercise Files and Progress.
-------------------------------------------
-1.  Welcome
+#React Course Exercise Files and Progress.
 
-2.  Setting up your Environment:
+1.  ##Welcome
 
-        -See screenshot 'React Setup.jpg' to see successful installs.
+2.  ##Setting up your Environment:
+* See screenshot 'React Setup.jpg' to see successful installs.
 
 3.  Hello React:
 
