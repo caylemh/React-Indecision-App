@@ -1,16 +1,16 @@
-React Course Exercise Files and Progress.
+# React Course Exercise Files and Progress.
 ------------------------------------------
-1.  Welcome
+## 1.  Welcome
 
-2.  Setting up your Environment:
+## 2.  Setting up your Environment:
 
-        * See screenshot 'React Setup.jpg' to see successful installs.
+* See screenshot 'React Setup.jpg' to see successful installs.
 
-3.  Hello React:
+## 3.  Hello React:
 
         * An introduction to some React tools (live-server, babel) and exploring some basic JSX.
 
-4.  React Components:
+## 4.  React Components:
 
         * An introduction to React components, Props and State.
 
