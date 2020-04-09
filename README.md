@@ -2,6 +2,8 @@
 
 ## 1.  Welcome
 
+* Creating the INDECISION APPLICATION
+
 ## 2.  Setting up your Environment:
 
 * See screenshot 'React Setup.jpg' to see successful installs.
@@ -45,3 +47,5 @@
 * Vid 9:  Setting up the Modal styles by accessing the modal presets.
 
 * Vid 10: Setting up the App to make it Mobile friendly.
+
+## -- END OF PART ONE --
