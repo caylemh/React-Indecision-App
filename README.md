@@ -48,4 +48,4 @@
 
 * Vid 10: Setting up the App to make it Mobile friendly.
 
-## -- END OF PART ONE --
+## --- END OF PART ONE ---
