@@ -29,6 +29,8 @@
 * Using the React Modal component in my program.
         
 ## 8.  Styling React:
+<details>
+<summary>Click here to expand</summary>
 
 * Vid 2:  Using '.scss' files and updating the webpack.config.js file with new loaders (sass-loader, style-loader, css-loader,etc).
 
@@ -47,5 +49,6 @@
 * Vid 9:  Setting up the Modal styles by accessing the modal presets.
 
 * Vid 10: Setting up the App to make it Mobile friendly.
+</details>
 
 ## --- END OF PART ONE ---
